@@ -5,7 +5,7 @@ $headings-font: 'Poppins', sans-serif;
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background: url('/images/bg-mobile.svg') no-repeat center top;
+    background: url('../images/bg-mobile.svg') no-repeat center top;
     background-color: $main-accent;
 }
 
@@ -101,7 +101,7 @@ li:hover {
 
 @media (min-width: 1200px) {
     body {
-        background: url(/images/bg-desktop.svg) no-repeat;
+        background: url(../images/bg-desktop.svg) no-repeat;
         background-color: $main-accent;
     }
 

@@ -70,7 +70,7 @@ h6 {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: url("/images/bg-mobile.svg") no-repeat center top;
+  background: url("../images/bg-mobile.svg") no-repeat center top;
   background-color: hsl(257, 40%, 49%);
 }
 
@@ -159,7 +159,7 @@ li:hover {
 
 @media (min-width: 1200px) {
   body {
-    background: url(/images/bg-desktop.svg) no-repeat;
+    background: url(../images/bg-desktop.svg) no-repeat;
     background-color: hsl(257, 40%, 49%);
   }
   header {
