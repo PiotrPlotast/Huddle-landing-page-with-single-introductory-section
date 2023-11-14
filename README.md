@@ -9,4 +9,5 @@
  <li>Lots of love</li>
  </ul>
  Screenshot:  <br />
+ 
  ![image](https://github.com/PiotrPlotast/Huddle-landing-page-with-single-introductory-section/assets/89207478/4fcd34a2-7808-4892-82ff-e072b751c114)
